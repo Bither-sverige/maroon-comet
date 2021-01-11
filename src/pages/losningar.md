@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: dd
     subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
