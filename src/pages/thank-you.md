@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Tack!
     subtitle: >-
-      Thank you for contacting us. We will get back in touch with you soon. Have
-      a great day!
+      Tack för att du kontaktar oss. Vi kommer snart att kontakta dig igen. Ha
+      en bra dag!
     actions:
       - label: Back to homepage
         url: /
