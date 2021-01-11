@@ -2,7 +2,7 @@
 title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
-  - title: dd
+  - title: Resturang beställing system
     subtitle: Kontakt nu
     actions:
       - label: Kontakt nu
