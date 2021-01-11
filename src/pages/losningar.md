@@ -5,7 +5,7 @@ sections:
   - title: dd
     subtitle: Kontakt nu
     actions:
-      - label: lorem-ipsum
+      - label: Kontakt nu
         url: lorem-ipsum
         style: link
         has_icon: false
