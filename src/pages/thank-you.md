@@ -7,7 +7,7 @@ sections:
       Tack för att du kontaktar oss. Vi kommer snart att kontakta dig igen. Ha
       en bra dag!
     actions:
-      - label: Back to homepage
+      - label: Tillbaka till startsidan
         url: /
         style: primary
     align: center
