@@ -6,7 +6,7 @@ sections:
     subtitle: Kontakt nu
     actions:
       - label: Kontakt nu
-        url: lorem-ipsum
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
