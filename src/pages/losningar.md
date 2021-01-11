@@ -3,7 +3,7 @@ title: lorem-ipsum
 excerpt: lorem-ipsum
 sections:
   - title: dd
-    subtitle: lorem-ipsum
+    subtitle: Kontakt nu
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
